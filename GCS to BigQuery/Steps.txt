@@ -1,0 +1,29 @@
+1. Create Cloud Storage
+2. Create Dataset 
+3. Create Table to Stored Data Using Schema given in Batch.py File
+4. Open Cloud Shell 
+5. Install Virtualenv package
+	-- pip install virtualenv
+6. Create One Virtual Env 
+	--virtualenv my_virtualenv_name
+7. Activate Virtualenv
+	--source my_virtualenv_name/bin/activate
+8.Install Beam SDK 
+	--pip install wheel
+	--pip install 'apache-beam[gcp]'
+9. Clone Codes using git clone "Link to code"
+10. Upload Data into bucket from UI or copy from console 
+11. Update Batch.py ( Project-ID , Dataset & Table name )
+12. All Set, Now Run 
+	--python3 Batch.py --runner DataFlowRunner 
+		--project <Project-ID> --temp_location gs://<Your BucketName>/temp 
+		--staging_location gs://<Your BucketName>/stag --region asia-east1 
+		--job_name drinkbeer
+
+13. Once Job execution Completed , Clear all resources before moving away
+	1. Delete Cloud Storage Bucket & BigQuery DataSet 
+	2. Deactivate virtualenv
+		-- deactivate my_virtualenv_name
+	3. Remove all directories (Code , Venv)
+		-- rm -rf <Diretory Name>
+		
