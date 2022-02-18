@@ -13,12 +13,9 @@
 	--pip install 'apache-beam[gcp]'
 9. Clone Codes using git clone "Link to code"
 10. Upload Data into bucket from UI or copy from console 
-11. Update Batch.py ( Project-ID , Dataset & Table name )
+11. Update Python file  ( Project-ID , Dataset & Table name )
 12. All Set, Now Run 
-	--python3 Batch.py --runner DataFlowRunner 
-		--project <Project-ID> --temp_location gs://<Your BucketName>/temp 
-		--staging_location gs://<Your BucketName>/stag --region asia-east1 
-		--job_name drinkbeer
+	--python GCS_to_BQ.py --save_main_session
 
 13. Once Job execution Completed , Clear all resources before moving away
 	1. Delete Cloud Storage Bucket & BigQuery DataSet 

@@ -1,0 +1,100 @@
+Trip Id,Trip  Duration,Start Station Id,Start Time,Start Station Name,End Station Id,End Time,End Station Name,Bike Id,User Type
+10644218,1315,7021,01/01/2021 00:04,Bay St / Albert St,7164,01/01/2021 00:26,Gould St / Yonge St (Ryerson University),6795,Annual Member
+10644220,396,7534,01/01/2021 00:07,Walnut Ave / Queen St W,7524,01/01/2021 00:13,Lisgar Park,4176,Casual Member
+10644221,86,7162,01/01/2021 00:10,Hayter St / Laplante Ave,7006,01/01/2021 00:11,Bay St / College St (East Side),1814,Annual Member
+10644222,741,7003,01/01/2021 00:10,Madison Ave / Bloor St W,7272,01/01/2021 00:22,Yonge St / Dundonald St - SMART,198,Casual Member
+10644223,2073,7562,01/01/2021 00:11,Priscilla  Ave / Dundas St W - SMART,7562,01/01/2021 00:45,Priscilla  Ave / Dundas St W - SMART,6688,Casual Member
+10644224,1924,7442,01/01/2021 00:11,Lonsdale Rd / Spadina Rd,7256,01/01/2021 00:43,Vanauley St / Queen St W - SMART,196,Annual Member
+10644225,473,7006,01/01/2021 00:12,Bay St / College St (East Side),7025,01/01/2021 00:19,Ted Rogers Way / Bloor St E,6882,Annual Member
+10644226,265,7014,01/01/2021 00:13,Sherbourne St / Carlton St (Allan Gardens),7508,01/01/2021 00:17,Berkeley St / Dundas St E - SMART,6485,Annual Member
+10644227,1079,7053,01/01/2021 00:13,Metro Hall Plaza,7079,01/01/2021 00:31,McGill St / Church St,5791,Casual Member
+10644228,981,7528,01/01/2021 00:15,Spadina Rd / Austin Terrace - SMART,7481,01/01/2021 00:31,Westmount Ave / St Clair Ave W - SMART,2951,Casual Member
+10644229,955,7528,01/01/2021 00:15,Spadina Rd / Austin Terrace - SMART,7481,01/01/2021 00:31,Westmount Ave / St Clair Ave W - SMART,3196,Casual Member
+10644230,757,7467,01/01/2021 00:18,Lower Simcoe St / Bremner Blvd,7203,01/01/2021 00:30,Bathurst St/Queens Quay(Billy Bishop Airport),2598,Annual Member
+10644231,229,7257,01/01/2021 00:18,Dundas St W / St. Patrick St,7546,01/01/2021 00:22,Ross St / Cecil St - SMART,4273,Casual Member
+10644232,1226,7038,01/01/2021 00:19,Dundas St W / Yonge St,7468,01/01/2021 00:40,Front St / Simcoe St,1434,Casual Member
+10644233,1857,7246,01/01/2021 00:20,Yonge St / Bloor St,7473,01/01/2021 00:51,Adelaide St W / Strachan Ave,3263,Casual Member
+10644234,1190,7038,01/01/2021 00:20,Dundas St W / Yonge St,7468,01/01/2021 00:40,Front St / Simcoe St,2594,Casual Member
+10644235,241,7014,01/01/2021 00:20,Sherbourne St / Carlton St (Allan Gardens),7028,01/01/2021 00:24,Gould St / Mutual St,4029,Annual Member
+10644236,236,7014,01/01/2021 00:20,Sherbourne St / Carlton St (Allan Gardens),7578,01/01/2021 00:24,Oak St / Parliament St,3963,Annual Member
+10644237,1849,7246,01/01/2021 00:20,Yonge St / Bloor St,7473,01/01/2021 00:51,Adelaide St W / Strachan Ave,1446,Casual Member
+10644238,1153,7038,01/01/2021 00:21,Dundas St W / Yonge St,7468,01/01/2021 00:40,Front St / Simcoe St,6489,Casual Member
+10644239,1152,7038,01/01/2021 00:21,Dundas St W / Yonge St,7468,01/01/2021 00:40,Front St / Simcoe St,538,Casual Member
+10644240,440,7100,01/01/2021 00:22,Dundas St E / Regent Park Blvd,7167,01/01/2021 00:30,Queen St E / George St (Moss Park),6414,Annual Member
+10644241,120,7031,01/01/2021 00:23,Jarvis St / Isabella St,7024,01/01/2021 00:25,Dundonald St / Church St,4846,Annual Member
+10644242,990,7016,01/01/2021 00:23,Bay St / Queens Quay W (Ferry Terminal),7079,01/01/2021 00:39,McGill St / Church St,211,Casual Member
+10644245,314,7014,01/01/2021 00:25,Sherbourne St / Carlton St (Allan Gardens),7268,01/01/2021 00:31,111 Bond St (North of Dundas St E)  - SMART,3940,Annual Member
+10644246,1461,7164,01/01/2021 00:26,Gould St / Yonge St (Ryerson University),7164,01/01/2021 00:50,Gould St / Yonge St (Ryerson University),6795,Annual Member
+10644247,1281,7151,01/01/2021 00:27,Essex St / Christie St - SMART,7411,01/01/2021 00:49,Little Norway Park,6554,Casual Member
+10644248,959,7476,01/01/2021 00:28,Symington Ave / Dupont St - SMART,7240,01/01/2021 00:44,Bloor St W / Shaw Ave - SMART,2149,Annual Member
+10644249,935,7476,01/01/2021 00:28,Symington Ave / Dupont St - SMART,7240,01/01/2021 00:44,Bloor St W / Shaw Ave - SMART,6347,Annual Member
+10644250,944,7221,01/01/2021 00:29,High Park Subway Station,7568,01/01/2021 00:45,Jameson Ave / Queen St W,2316,Annual Member
+10644251,396,7508,01/01/2021 00:29,Berkeley St / Dundas St E - SMART,7124,01/01/2021 00:36,Dundas St E / Broadview Ave,6485,Annual Member
+10644252,643,7448,01/01/2021 00:29,Goodwood Park Ct / Dentonia Park - SMART,7448,01/01/2021 00:40,Goodwood Park Ct / Dentonia Park - SMART,6316,Annual Member
+10644253,246,7268,01/01/2021 00:31,111 Bond St (North of Dundas St E)  - SMART,7458,01/01/2021 00:35,Church St / Lombard St,6819,Annual Member
+10644254,692,7079,01/01/2021 00:32,McGill St / Church St,7034,01/01/2021 00:44,Church St / Bloor St E,5236,Annual Member
+10644255,1102,7203,01/01/2021 00:33,Bathurst St/Queens Quay(Billy Bishop Airport),7047,01/01/2021 00:51,University Ave / Gerrard St W (East Side),3107,Annual Member
+10644256,409,7006,01/01/2021 00:33,Bay St / College St (East Side),7008,01/01/2021 00:40,Wellesley St / Queen's Park Cres,2883,Annual Member
+10644257,490,7090,01/01/2021 00:34,Danforth Ave / Lamb Ave,7093,01/01/2021 00:42,Danforth Ave / Gough Ave,4089,Annual Member
+10644258,1171,7400,01/01/2021 00:34,Polson Pier,7065,01/01/2021 00:53,Dundas St E / Parliament St,5644,Casual Member
+10644259,580,7090,01/01/2021 00:34,Danforth Ave / Lamb Ave,7450,01/01/2021 00:44,Carlaw Ave / Danforth Ave - SMART,1781,Annual Member
+10644260,750,7016,01/01/2021 00:35,Bay St / Queens Quay W (Ferry Terminal),7489,01/01/2021 00:47,Sumach St  / Queen St E,5185,Annual Member
+10644261,423,7458,01/01/2021 00:35,Church St / Lombard St,7054,01/01/2021 00:42,Navy Wharf Ct. / Bremner Blvd.,6625,Annual Member
+10644262,930,7328,01/01/2021 00:35,Roxborough St W / Yonge St,7375,01/01/2021 00:51,Front St E / Scott St,1950,Annual Member
+10644263,378,7467,01/01/2021 00:37,Lower Simcoe St / Bremner Blvd,7001,01/01/2021 00:43,Lower Jarvis St / The Esplanade,1648,Casual Member
+10644264,918,7175,01/01/2021 00:38,HTO Park (Queens Quay W),7069,01/01/2021 00:53,Queen St W / Spadina Ave,4366,Annual Member
+10644265,324,7593,01/01/2021 00:39,Roehampton St / Bayview Ave - SMART,7404,01/01/2021 00:45,Roehampton Ave / Mount Pleasant Rd,5976,Annual Member
+10644266,1551,7469,01/01/2021 00:40,Wellington St W / York St,7202,01/01/2021 01:06,Queen St W / York St (City Hall),4035,Casual Member
+10644267,634,7016,01/01/2021 00:41,Bay St / Queens Quay W (Ferry Terminal),7100,01/01/2021 00:51,Dundas St E / Regent Park Blvd,709,Annual Member
+10644268,794,7330,01/01/2021 00:41,Lee Ave / Queen St E,7258,01/01/2021 00:54,Queen St E / Larchmount Ave,5298,Annual Member
+10644269,892,7330,01/01/2021 00:41,Lee Ave / Queen St E,7278,01/01/2021 00:56,Mallon Ave / Jones Ave -SMART,2800,Annual Member
+10644270,1015,7093,01/01/2021 00:43,Danforth Ave / Gough Ave,7002,01/01/2021 01:00,St. George St / Bloor St W,6800,Annual Member
+10644271,660,7202,01/01/2021 00:43,Queen St W / York St (City Hall),7199,01/01/2021 00:54,College St / Markham St,2612,Annual Member
+10644272,1334,7469,01/01/2021 00:43,Wellington St W / York St,7202,01/01/2021 01:06,Queen St W / York St (City Hall),5987,Casual Member
+10644273,1350,7469,01/01/2021 00:44,Wellington St W / York St,7202,01/01/2021 01:06,Queen St W / York St (City Hall),5631,Casual Member
+10644274,192,7034,01/01/2021 00:44,Church St / Bloor St E,7025,01/01/2021 00:47,Ted Rogers Way / Bloor St E,6767,Annual Member
+10644275,936,7450,01/01/2021 00:44,Carlaw Ave / Danforth Ave - SMART,7002,01/01/2021 01:00,St. George St / Bloor St W,6772,Annual Member
+10644276,1306,7469,01/01/2021 00:44,Wellington St W / York St,7202,01/01/2021 01:06,Queen St W / York St (City Hall),1047,Casual Member
+10644277,1260,7469,01/01/2021 00:44,Wellington St W / York St,7202,01/01/2021 01:05,Queen St W / York St (City Hall),1799,Casual Member
+10644279,320,7418,01/01/2021 00:45,College Park - Yonge St Entrance,7055,01/01/2021 00:50,Jarvis St / Carlton St,574,Casual Member
+10644280,1907,7562,01/01/2021 00:46,Priscilla  Ave / Dundas St W - SMART,7232,01/01/2021 01:17,Queen St W  /  Fuller Ave - SMART,6688,Casual Member
+10644281,614,7240,01/01/2021 00:46,Bloor St W / Shaw Ave - SMART,7473,01/01/2021 00:56,Adelaide St W / Strachan Ave,6347,Annual Member
+10644282,608,7240,01/01/2021 00:46,Bloor St W / Shaw Ave - SMART,7473,01/01/2021 00:57,Adelaide St W / Strachan Ave,2149,Annual Member
+10644283,1166,7635,01/01/2021 00:47,Runnymede Rd / Annette St - SMART,7535,01/01/2021 01:06,Wolsley St / Palmerston Ave - SMART,NULL,Annual Member
+10644284,929,7025,01/01/2021 00:47,Ted Rogers Way / Bloor St E,7271,01/01/2021 01:03,Yonge St / Alexander St - SMART,6882,Annual Member
+10644285,1054,7075,01/01/2021 00:47,Queens Quay W / Dan Leckie Way,7177,01/01/2021 01:05,East Liberty St / Pirandello St,4046,Casual Member
+10644286,1065,7075,01/01/2021 00:48,Queens Quay W / Dan Leckie Way,7177,01/01/2021 01:05,East Liberty St / Pirandello St,6490,Casual Member
+10644287,1536,7203,01/01/2021 00:50,Bathurst St/Queens Quay(Billy Bishop Airport),7242,01/01/2021 01:15,Lake Shore Blvd W / Ontario Dr,2529,Casual Member
+10644289,1506,7203,01/01/2021 00:50,Bathurst St/Queens Quay(Billy Bishop Airport),7242,01/01/2021 01:15,Lake Shore Blvd W / Ontario Dr,2090,Casual Member
+10644290,1503,7203,01/01/2021 00:50,Bathurst St/Queens Quay(Billy Bishop Airport),7242,01/01/2021 01:15,Lake Shore Blvd W / Ontario Dr,6014,Casual Member
+10644291,1507,7203,01/01/2021 00:50,Bathurst St/Queens Quay(Billy Bishop Airport),7242,01/01/2021 01:16,Lake Shore Blvd W / Ontario Dr,6174,Casual Member
+10644293,1583,7253,01/01/2021 00:51,John St  / Mercer St - SMART,7472,01/01/2021 01:18,Dundas St E / Victoria St,1422,Annual Member
+10644294,859,7164,01/01/2021 00:52,Gould St / Yonge St (Ryerson University),7286,01/01/2021 01:06,Gerrard St E / Broadview - SMART,6795,Annual Member
+10644295,445,7047,01/01/2021 00:52,University Ave / Gerrard St W (East Side),7026,01/01/2021 01:00,Bay St / St. Joseph St,3107,Annual Member
+10644296,480,7240,01/01/2021 00:53,Bloor St W / Shaw Ave - SMART,7144,01/01/2021 01:01,Palmerston Ave / Vermont Ave,1070,Annual Member
+10644297,689,7001,01/01/2021 00:54,Lower Jarvis St / The Esplanade,7470,01/01/2021 01:05,York St / Lake Shore Blvd W,3864,Annual Member
+10644298,1565,7518,01/01/2021 00:58,Lake Shore Blvd W / Colborne Lodge Dr,7515,01/01/2021 01:24,Amos Waites Park,1686,Casual Member
+10644299,1619,7518,01/01/2021 00:58,Lake Shore Blvd W / Colborne Lodge Dr,7515,01/01/2021 01:25,Amos Waites Park,3402,Casual Member
+10644300,1491,7518,01/01/2021 00:58,Lake Shore Blvd W / Colborne Lodge Dr,7515,01/01/2021 01:23,Amos Waites Park,4735,Casual Member
+10644301,974,7027,01/01/2021 00:59,Beverley  St / Dundas St W,7037,01/01/2021 01:15,Bathurst St / Dundas St W,1556,Casual Member
+10644302,1575,7518,01/01/2021 00:59,Lake Shore Blvd W / Colborne Lodge Dr,7515,01/01/2021 01:25,Amos Waites Park,448,Casual Member
+10644305,596,7144,01/01/2021 01:02,Palmerston Ave / Vermont Ave,7133,01/01/2021 01:12,Summerhill Station,6768,Annual Member
+10644306,1657,7271,01/01/2021 01:03,Yonge St / Alexander St - SMART,7549,01/01/2021 01:31,439 Sherbourne St - SMART,6882,Annual Member
+10644307,1459,7247,01/01/2021 01:05,Howard Park Ave / Dundas St W - SMART,7122,01/01/2021 01:29,Niagara St / Tecumseth St,4237,Annual Member
+10644308,556,7144,01/01/2021 01:05,Palmerston Ave / Vermont Ave,7131,01/01/2021 01:14,Taddle Creek Park,1070,Casual Member
+10644309,704,7519,01/01/2021 01:06,Sheridan Ave / Dundas St W - SMART,7519,01/01/2021 01:17,Sheridan Ave / Dundas St W - SMART,5875,Annual Member
+10644310,1393,7247,01/01/2021 01:06,Howard Park Ave / Dundas St W - SMART,7122,01/01/2021 01:29,Niagara St / Tecumseth St,5451,Annual Member
+10644311,562,7184,01/01/2021 01:07,Ossington Ave / College St,7149,01/01/2021 01:16,Yarmouth Rd / Christie St,1436,Annual Member
+10644312,556,7410,01/01/2021 01:09,Howard St / Rose Ave - SMART,7121,01/01/2021 01:18,Jarvis St / Dundas St E,1889,Annual Member
+10644314,734,7015,01/01/2021 01:11,King St W / Bay St (West Side),7104,01/01/2021 01:23,King St E / River St,5247,Casual Member
+10644315,725,7015,01/01/2021 01:11,King St W / Bay St (West Side),7104,01/01/2021 01:23,King St E / River St,851,Annual Member
+10644316,325,7256,01/01/2021 01:13,Vanauley St / Queen St W - SMART,7366,01/01/2021 01:19,Fort York Blvd / Bathurst St SMART,280,Annual Member
+10644317,105,7291,01/01/2021 01:14,190 Queens Quay E,7101,01/01/2021 01:15,Lower Sherbourne St / The Esplanade,3673,Annual Member
+10644318,862,7131,01/01/2021 01:15,Taddle Creek Park,7277,01/01/2021 01:29,Chorley Park - SMART,6627,Casual Member
+10644321,1297,7374,01/01/2021 01:17,Frederick St / The Esplanade,7261,01/01/2021 01:38,Queens Quay E / Lower Sherbourne St,4981,Annual Member
+10644322,1315,7374,01/01/2021 01:17,Frederick St / The Esplanade,7261,01/01/2021 01:39,Queens Quay E / Lower Sherbourne St,4924,Annual Member
+10644325,132,7101,01/01/2021 01:19,Lower Sherbourne St / The Esplanade,7291,01/01/2021 01:22,190 Queens Quay E,5529,Annual Member
+10644326,446,7037,01/01/2021 01:20,Bathurst St / Dundas St W,7037,01/01/2021 01:28,Bathurst St / Dundas St W,2158,Casual Member
+10644328,423,7242,01/01/2021 01:21,Lake Shore Blvd W / Ontario Dr,7242,01/01/2021 01:28,Lake Shore Blvd W / Ontario Dr,2090,Casual Member
+10644329,397,7242,01/01/2021 01:21,Lake Shore Blvd W / Ontario Dr,7242,01/01/2021 01:28,Lake Shore Blvd W / Ontario Dr,2529,Casual Member
+10644330,776,7533,01/01/2021 01:23,Housey St / Dan Leckie Way - SMART,7073,01/01/2021 01:36,Spadina Ave / Fort York Blvd,103,Annual Member
